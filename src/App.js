@@ -1,6 +1,6 @@
 import React from 'react'
 
-// a4c4baf2
+const API_URL = 'http://www.omdapi.com?apikey=a4c4baf2'
 
 const App = () => {
   return (
