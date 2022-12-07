@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jsm-intro-into-react/static/css/main.334bdeb1.css",
+    "main.js": "/jsm-intro-into-react/static/js/main.18c6e685.js",
+    "index.html": "/jsm-intro-into-react/index.html",
+    "static/media/search.svg": "/jsm-intro-into-react/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/jsm-intro-into-react/static/css/main.334bdeb1.css.map",
+    "main.18c6e685.js.map": "/jsm-intro-into-react/static/js/main.18c6e685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.18c6e685.js"
+  ]
+}
